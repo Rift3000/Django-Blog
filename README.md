@@ -10,25 +10,25 @@
 
 ## Images of the blog below
 #### Top of the Landing Page
-[<img src="https://i.ibb.co/KLPWVSb/blog-landing.jpg" alt="blog-landing" border="0" height="70%" width="100%">](i.ibb.co/KLPWVSb/blog-landing.jpg)
+[<img style="border: 8px green solid" src="https://i.ibb.co/KLPWVSb/blog-landing.jpg" alt="blog-landing" height="70%" width="100%">](i.ibb.co/KLPWVSb/blog-landing.jpg)
 
 
 #### Latest Blog
-[<img src="https://i.ibb.co/DgTSB3J/latest-blog.jpg" alt="second-posts" border="5" height="70%" width="100%">]()
+[<img style="border: 8px green solid"  src="https://i.ibb.co/DgTSB3J/latest-blog.jpg" alt="second-posts" height="70%" width="100%">]()
 
 #### Post Two
-[<img src="https://i.ibb.co/wgJj0X2/posts-2.jpg" alt="second-posts" border="5" height="70%" width="100%">]()
+[<img style="border: 8px green solid" src="https://i.ibb.co/wgJj0X2/posts-2.jpg" alt="second-posts" height="70%" width="100%">]()
 
 #### Second Posts
-[<img src="https://i.ibb.co/fFbMJS9/second-post.jpg" alt="second-posts" border="5" height="70%" width="100%">]()
+[<img style="border: 8px green solid" src="https://i.ibb.co/fFbMJS9/second-post.jpg" alt="second-posts" height="70%" width="100%">]()
 
 #### Four Blog Posts
-[<img src="https://i.ibb.co/n34N1qS/blog-post.jpg" alt="blog-post" border="5" height="70%" width="100%">]()
+[<img style="border: 8px green solid" src="https://i.ibb.co/n34N1qS/blog-post.jpg" alt="blog-post" height="70%" width="100%">]()
 
 
 #### Comments on a Post
-[<img src="https://i.ibb.co/PW6pXy7/comments.jpg" alt="comments" border="5" height="70%" width="100%">]()
+[<img style="border: 8px green solid" src="https://i.ibb.co/PW6pXy7/comments.jpg" alt="comments" height="70%" width="100%">]()
 
 
 #### Footer
-[<img src="https://i.ibb.co/f0xkXDC/footer.jpg" alt="second-posts" border="5" height="100%" width="100%">]()
+[<img style="border: 8px green solid" src="https://i.ibb.co/f0xkXDC/footer.jpg" alt="second-posts" height="100%" width="100%">]()
